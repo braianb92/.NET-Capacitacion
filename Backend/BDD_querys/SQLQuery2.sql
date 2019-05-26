@@ -1,0 +1,1 @@
+select *  from [Datos Basicos],TelefonoMail

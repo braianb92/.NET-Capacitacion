@@ -1,0 +1,18 @@
+E:\Baldino\CSh\Hola\bin\Debug\Hola.exe.config
+E:\Baldino\CSh\Hola\bin\Debug\Hola.exe
+E:\Baldino\CSh\Hola\bin\Debug\Hola.pdb
+E:\Baldino\CSh\Hola\obj\Debug\Hola.csprojResolveAssemblyReference.cache
+E:\Baldino\CSh\Hola\obj\Debug\Hola.exe
+E:\Baldino\CSh\Hola\obj\Debug\Hola.pdb
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\bin\Debug\Hola.exe.config
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\obj\Debug\Hola.exe
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\obj\Debug\Hola.pdb
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\bin\Debug\Hola.exe
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\bin\Debug\Hola.pdb
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\obj\Debug\Hola.csprojResolveAssemblyReference.cache
+E:\Baldino\EI-master\Clase1-C#\Hola\bin\Debug\Hola.exe.config
+E:\Baldino\EI-master\Clase1-C#\Hola\obj\Debug\Hola.exe
+E:\Baldino\EI-master\Clase1-C#\Hola\obj\Debug\Hola.pdb
+E:\Baldino\EI-master\Clase1-C#\Hola\bin\Debug\Hola.exe
+E:\Baldino\EI-master\Clase1-C#\Hola\bin\Debug\Hola.pdb
+E:\Baldino\EI-master\Clase1-C#\Hola\obj\Debug\Hola.csprojResolveAssemblyReference.cache

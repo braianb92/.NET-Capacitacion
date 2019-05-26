@@ -1,0 +1,12 @@
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\Martes21-clase2\bin\Debug\Martes21-clase2.exe.config
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\Martes21-clase2\obj\Debug\Martes21-clase2.csprojResolveAssemblyReference.cache
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\Martes21-clase2\bin\Debug\Martes21-clase2.exe
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\Martes21-clase2\bin\Debug\Martes21-clase2.pdb
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\Martes21-clase2\obj\Debug\Martes21-clase2.exe
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Hola\Martes21-clase2\obj\Debug\Martes21-clase2.pdb
+E:\Baldino\EI-master\Clase1-C#\Hola\Martes21-clase2\bin\Debug\Martes21-clase2.exe.config
+E:\Baldino\EI-master\Clase1-C#\Hola\Martes21-clase2\obj\Debug\Martes21-clase2.exe
+E:\Baldino\EI-master\Clase1-C#\Hola\Martes21-clase2\obj\Debug\Martes21-clase2.pdb
+E:\Baldino\EI-master\Clase1-C#\Hola\Martes21-clase2\bin\Debug\Martes21-clase2.exe
+E:\Baldino\EI-master\Clase1-C#\Hola\Martes21-clase2\bin\Debug\Martes21-clase2.pdb
+E:\Baldino\EI-master\Clase1-C#\Hola\Martes21-clase2\obj\Debug\Martes21-clase2.csprojResolveAssemblyReference.cache

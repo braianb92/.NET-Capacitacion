@@ -1,0 +1,1 @@
+Usando las etiquetas vistas, realizar un documento HTML con el contenido del archivo "texto.doc" y con apariencia dada por la imagen "resultado.jpg"

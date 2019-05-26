@@ -1,0 +1,6 @@
+C:\Users\educacionit\Desktop\MM\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\educacionit\Desktop\MM\Funciones\bin\Debug\Funciones.exe
+C:\Users\educacionit\Desktop\MM\Funciones\bin\Debug\Funciones.pdb
+C:\Users\educacionit\Desktop\MM\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+C:\Users\educacionit\Desktop\MM\Funciones\obj\Debug\Funciones.exe
+C:\Users\educacionit\Desktop\MM\Funciones\obj\Debug\Funciones.pdb

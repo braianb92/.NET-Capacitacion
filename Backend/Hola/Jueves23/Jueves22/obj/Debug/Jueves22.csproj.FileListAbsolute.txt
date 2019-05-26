@@ -1,0 +1,6 @@
+E:\Baldino\EI-master\Clase1-C#\Hola\Jueves23\Jueves22\bin\Debug\Jueves22.exe.config
+E:\Baldino\EI-master\Clase1-C#\Hola\Jueves23\Jueves22\bin\Debug\Jueves22.exe
+E:\Baldino\EI-master\Clase1-C#\Hola\Jueves23\Jueves22\bin\Debug\Jueves22.pdb
+E:\Baldino\EI-master\Clase1-C#\Hola\Jueves23\Jueves22\obj\Debug\Jueves22.csprojResolveAssemblyReference.cache
+E:\Baldino\EI-master\Clase1-C#\Hola\Jueves23\Jueves22\obj\Debug\Jueves22.exe
+E:\Baldino\EI-master\Clase1-C#\Hola\Jueves23\Jueves22\obj\Debug\Jueves22.pdb

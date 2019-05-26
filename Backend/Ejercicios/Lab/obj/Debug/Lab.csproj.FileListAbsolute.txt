@@ -1,0 +1,6 @@
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Ejercicios\Lab\bin\Debug\Lab.exe.config
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Ejercicios\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Ejercicios\Lab\bin\Debug\Lab.exe
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Ejercicios\Lab\bin\Debug\Lab.pdb
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Ejercicios\Lab\obj\Debug\Lab.exe
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\Ejercicios\Lab\obj\Debug\Lab.pdb

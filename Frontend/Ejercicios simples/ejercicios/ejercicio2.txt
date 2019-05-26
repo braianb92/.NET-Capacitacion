@@ -1,0 +1,22 @@
+Abre cuatro páginas web distintas y captura la ruta de 4 imágenes que puedas encontrar en ellas (las imágenes que prefieras).
+A continuación crea un documento html donde incorpores un texto que indique el contenido de la imagen y a continuación se vea la imagen. 
+Guarda el documento en un archivo html y comprueba que se visualiza correctamente. Ejemplo:
+ 
+
+Imagen que refleja una boda:
+
+ (… aquí la imagen)
+
+Imagen que muestra un mercado:
+
+(… aquí la imagen)
+
+Imagen que muestra un atleta:
+
+(… aquí la imagen)
+
+Imagen que refleja un atardecer:
+
+(… aquí la imagen)
+
+ 

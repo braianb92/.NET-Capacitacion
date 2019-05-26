@@ -1,0 +1,1 @@
+alter authorization on database::Contactos to sa

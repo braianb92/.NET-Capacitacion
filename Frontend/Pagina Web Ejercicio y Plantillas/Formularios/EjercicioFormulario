@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario</title>
+	<style>
+		body
+		{
+			text-align: center;
+			background: url(http://guillerojo.com/wp-content/uploads/2017/07/cc8369b65bee5244e6b94ebc274c340b.jpg)fixed;
+		}
+	</style>
+</head>
+<body>
+	<h2>Contacto</h2>
+	<form action="https://postman-echo.com/post" method="post">
+		Nombre: <br>
+		<input type="text" name="nombre" required="" ><br><br>
+
+		Apellido: <br>
+		<input type="text" name="apellido" required=""><br><br>
+
+		Edad: <br>
+		<input type="number" min=1 max=150 name="edad" required=""><br><br>
+
+		Email: <br>
+		<input type="email" name="email" required=""><br><br>
+
+		Contraseña: <br>
+		<input type="password" name="password" required=""><br><br>
+
+		Genero: <br>
+		<input type="radio" name="genero" value="masculino" checked>Masculino
+		<input type="radio" name="genero" value="femenino">Femenino <br><br>
+		
+		Estudios: <br>
+		<input type="checkbox" name="primaria">Primarios
+		<input type="checkbox" name="secundaria">Secundarios
+		<input type="checkbox" name="terciaria">Terciarios <br><br>
+		
+		Marca de Vehiculo: <br>
+		<select name="vehiculo">
+			<<option value="desplegar" checked>Desplegar</option>>
+			<<option value="ford">Ford</option>>
+			<<option value="renault">Renault</option>>
+			<<option value="fiat">Fiat</option>>
+			<<option value="dodge">Dodge</option>>
+		</select><br><br>
+
+		Notas: <br>
+		<textarea name="notas" cols="30" rows="10"></textarea><br><br>
+
+		Fecha de Nacimiento: <br>
+		<input type="date" name="fechaNacimiento"><br><br>
+		<input style="border-radius: 20%;background-color: lightblue;"type="submit" value="Enviar">
+	</form>
+
+</body>
+</html>

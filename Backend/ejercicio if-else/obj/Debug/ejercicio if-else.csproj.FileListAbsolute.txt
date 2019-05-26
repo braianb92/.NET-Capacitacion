@@ -1,0 +1,6 @@
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\ejercicio if-else\bin\Debug\ejercicio if-else.exe.config
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\ejercicio if-else\bin\Debug\ejercicio if-else.exe
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\ejercicio if-else\bin\Debug\ejercicio if-else.pdb
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\ejercicio if-else\obj\Debug\ejercicio if-else.exe
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\ejercicio if-else\obj\Debug\ejercicio if-else.pdb
+E:\Baldino\EI-master\.NET Educacion IT\Clase1-C#\ejercicio if-else\obj\Debug\ejercicio if-else.csprojResolveAssemblyReference.cache

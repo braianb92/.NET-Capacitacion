@@ -1,0 +1,6 @@
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\bin\Debug\EjercicioIntegradorConFunciones_Baldino.exe.config
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\bin\Debug\EjercicioIntegradorConFunciones_Baldino.exe
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\bin\Debug\EjercicioIntegradorConFunciones_Baldino.pdb
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\obj\Debug\Alternativa1.csprojResolveAssemblyReference.cache
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\obj\Debug\EjercicioIntegradorConFunciones_Baldino.exe
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\obj\Debug\EjercicioIntegradorConFunciones_Baldino.pdb

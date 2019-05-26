@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Formulario</title>
+	<style>
+		body
+		{
+			text-align: center;
+			background: url(http://guillerojo.com/wp-content/uploads/2017/07/cc8369b65bee5244e6b94ebc274c340b.jpg)fixed;
+		}
+	</style>
+</head>
+<body>
+	<h2>Contacto</h2>
+	<form action="https://postman-echo.com/post" method="post">
+		Nombre: <br>
+		<input type="text" name="nombre" required><br><br>
+
+		Edad: <br>
+		<input type="number" min=18 max=90 name="edad" required=""><br><br>
+
+		Email: <br>
+		<input type="email" name="email" required=""><br><br>
+
+		Origen: <br>
+		<select name="origen" required="">
+			<<option value="desplegar" checked>Desplegar</option>>
+			<<option value="sectorA">Sector A</option>>
+			<<option value="sectorB">Sector B</option>>
+			<<option value="sectorC">Sector C</option>>
+			<<option value="sectorD">Sector D</option>>
+		</select><br><br>
+		
+
+		Comentarios: <br>
+		<textarea name="comentarios" cols="30" rows="10"></textarea><br><br>
+
+		Estado civil: <br>
+		<input type="radio" name="estadocivil" value="soltero" required="">Soltero
+		<input type="radio" name="estadocivil" value="casado" required="">Casado <br><br>
+
+		<br>
+		<input type="checkbox" name="terminos" required>Acepta Terminos y Condiciones <br><br>
+
+		<input style="border-radius: 15%;background-color: #59C7E0; border-color: #59C7E0 ;width: 200px; height: 30px;"type="submit" value="Enviar">
+	</form>
+
+</body>
+</html>

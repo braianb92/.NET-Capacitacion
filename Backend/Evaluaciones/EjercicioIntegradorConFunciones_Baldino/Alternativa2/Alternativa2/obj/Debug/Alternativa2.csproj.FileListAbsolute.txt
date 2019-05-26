@@ -1,0 +1,13 @@
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\bin\Debug\Alternativa2.exe.config
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\bin\Debug\Alternativa2.exe
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\bin\Debug\Alternativa2.pdb
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\obj\Debug\Alternativa2.csprojResolveAssemblyReference.cache
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\obj\Debug\Alternativa2.exe
+E:\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\obj\Debug\Alternativa2.pdb
+E:\Baldino\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\bin\Debug\Alternativa2.exe.config
+E:\Baldino\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\bin\Debug\Alternativa2.exe
+E:\Baldino\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\bin\Debug\Alternativa2.pdb
+E:\Baldino\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\obj\Debug\Alternativa2.csprojAssemblyReference.cache
+E:\Baldino\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\obj\Debug\Alternativa2.csproj.CoreCompileInputs.cache
+E:\Baldino\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\obj\Debug\Alternativa2.exe
+E:\Baldino\Baldino\EI-master\Ejercicio Integrador_Baldino\EjercicioIntegradorConFunciones_Baldino\Alternativa2\Alternativa2\obj\Debug\Alternativa2.pdb
