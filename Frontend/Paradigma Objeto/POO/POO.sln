@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
@@ -20,3 +21,27 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO.csproj", "{BF6350BB-BE7F-483D-997F-B6CA63ADFC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6350BB-BE7F-483D-997F-B6CA63ADFC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6350BB-BE7F-483D-997F-B6CA63ADFC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6350BB-BE7F-483D-997F-B6CA63ADFC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6350BB-BE7F-483D-997F-B6CA63ADFC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> e2a40dc520f2ae50cb69cd5c160a4bc341392fe8
