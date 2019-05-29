@@ -1,0 +1,6 @@
+E:\Baldino\.NET-Capacitacion-master\Frontend\Paradigma Objeto\POO\bin\Debug\POO.exe.config
+E:\Baldino\.NET-Capacitacion-master\Frontend\Paradigma Objeto\POO\bin\Debug\POO.exe
+E:\Baldino\.NET-Capacitacion-master\Frontend\Paradigma Objeto\POO\bin\Debug\POO.pdb
+E:\Baldino\.NET-Capacitacion-master\Frontend\Paradigma Objeto\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+E:\Baldino\.NET-Capacitacion-master\Frontend\Paradigma Objeto\POO\obj\Debug\POO.exe
+E:\Baldino\.NET-Capacitacion-master\Frontend\Paradigma Objeto\POO\obj\Debug\POO.pdb

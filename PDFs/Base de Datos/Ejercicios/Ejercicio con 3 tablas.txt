@@ -1,0 +1,9 @@
+En base a esta consulta, que muestra todos los libros tengan o no ventas,
+Mostrar tambièn el nombre de la sucursal
+---------------------------------------------------------------------------
+
+
+SELECT t.title_id as IdLibro, t.title as Titulo, s.stor_id IdSucursal
+FROM Titles as t
+LEFT JOIN Sales as s on s.title_id =t.title_id 
+ORDER BY  IdLibro , IdSucursal
