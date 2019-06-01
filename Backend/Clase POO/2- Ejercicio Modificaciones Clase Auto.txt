@@ -1,0 +1,10 @@
+
+
+- Modificar el mètodo girar indicando si gira hacia la izquierda o hacia la derecha.
+El mensaje deberà indicar claramente cuàntos grados girar y en què sentido.
+
+- Modificar los mètodos Acelerar y Frenar, validando la cantidad de kilòmetros
+ entre 1 y 120.
+Si se recibe un valor fuera de rango, mostrar un mensaje adecuado.
+En el programa principal hacer una prueba pasando un valor fuera de rango
+para que aparezca el mensaje.

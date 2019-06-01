@@ -1,0 +1,6 @@
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\app_ejemplo\ejemplo_list\bin\Debug\ejemplo_list.exe.config
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\app_ejemplo\ejemplo_list\obj\Debug\ejemplo_list.csprojResolveAssemblyReference.cache
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\app_ejemplo\ejemplo_list\bin\Debug\ejemplo_list.exe
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\app_ejemplo\ejemplo_list\bin\Debug\ejemplo_list.pdb
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\app_ejemplo\ejemplo_list\obj\Debug\ejemplo_list.exe
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\app_ejemplo\ejemplo_list\obj\Debug\ejemplo_list.pdb

@@ -1,0 +1,6 @@
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\Clase-Objeto\EjemploClaseAuto\bin\Debug\EjemploClaseAuto.exe.config
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\Clase-Objeto\EjemploClaseAuto\bin\Debug\EjemploClaseAuto.exe
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\Clase-Objeto\EjemploClaseAuto\bin\Debug\EjemploClaseAuto.pdb
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\Clase-Objeto\EjemploClaseAuto\obj\Debug\EjemploClaseAuto.csprojResolveAssemblyReference.cache
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\Clase-Objeto\EjemploClaseAuto\obj\Debug\EjemploClaseAuto.exe
+E:\Baldino\.NET-Capacitacion-master\Backend\Clase POO\Clase-Objeto\EjemploClaseAuto\obj\Debug\EjemploClaseAuto.pdb

@@ -1,0 +1,6 @@
+E:\Baldino\.NET-Capacitacion-master\Backend\Evaluaciones\Modelado en C#\Modelado_Clases\bin\Debug\Modelado_Clases.exe.config
+E:\Baldino\.NET-Capacitacion-master\Backend\Evaluaciones\Modelado en C#\Modelado_Clases\obj\Debug\Modelado_Clases.csprojResolveAssemblyReference.cache
+E:\Baldino\.NET-Capacitacion-master\Backend\Evaluaciones\Modelado en C#\Modelado_Clases\bin\Debug\Modelado_Clases.exe
+E:\Baldino\.NET-Capacitacion-master\Backend\Evaluaciones\Modelado en C#\Modelado_Clases\bin\Debug\Modelado_Clases.pdb
+E:\Baldino\.NET-Capacitacion-master\Backend\Evaluaciones\Modelado en C#\Modelado_Clases\obj\Debug\Modelado_Clases.exe
+E:\Baldino\.NET-Capacitacion-master\Backend\Evaluaciones\Modelado en C#\Modelado_Clases\obj\Debug\Modelado_Clases.pdb
