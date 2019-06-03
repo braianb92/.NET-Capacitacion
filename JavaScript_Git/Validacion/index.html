@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Validacion Formulario</title>
+</head>
+<body>
+    <form action="https://postman-echo.com/post" method="post" novalidate onsubmit="return validarDatos()">
+
+        Nombre:<br>
+        <input type="text" id="nombre" name="nombre"><br><br>
+        <p id="error-nombre">Error en campo nombre</p>
+
+        Apellido:
+        <input type="text" id="apellido" name="apellido"><br><br>
+        Edad:
+        <input type="number" id="edad" name="edad"><br><br>
+        Mail:
+        <input type="email" id="email" name="email"><br><br>
+        <br><br>
+        <input type="submit" value="enviar"><br><br>
+
+    </form>
+
+    <script>
+    
+    function mostrarErrorEnNombre(mostrar)
+    {
+        document.querySelector("#error-nombre").style.display=mostar? 'block':'none';
+    }
+
+    function validarDatos()
+    {
+        var nombre=document.querySelector("#nombre").value;
+        var apellido=document.querySelector("#apellido").value;
+        var edad=document.querySelector("#edad").value;
+        var email=document.querySelector("#email").value;
+        console.log(nombre,apellido,edad,email);
+
+        if(nombre.length<3||nombre.length>10)
+        {
+            console.log(nombre.length);
+            mostrarErrorEnNombre(true);
+            return false;
+        }
+        return true;
+    }
+
+    mostrarErrorEnNombre(false);
+    </script>
+</body>
+</html>
