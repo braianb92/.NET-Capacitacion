@@ -39,7 +39,7 @@
         var email=document.querySelector("#email").value;
         console.log(nombre,apellido,edad,email);
 
-        if(nombre.length<3||nombre.length>10)
+        if(nombre.length>3 || nombre.length<10)
         {
             console.log(nombre.length);
             mostrarErrorEnNombre(true);
